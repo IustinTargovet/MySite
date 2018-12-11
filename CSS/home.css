@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background: rgba(173, 230, 224, 0.18);
+    font-family: Arvo, serif;
+    font-weight: bold;
+    color: rgba(24, 24, 48, 0.84);
+}
